@@ -1,6 +1,6 @@
 # Sistema de xadrez em Java
 
-##Projeto completo do Nelio Alves, demorei esse tempo pois a sessão e total de horas é o acompanhamento das aulas, mas entre uma sessão de código e outra estudei bastante o código a fim de entender o porque de estar fazendo aquele código, e relacionando cada camada de objeto com diferentes funções.
+Projeto completo do Nelio Alves, demorei esse tempo pois a sessão e total de horas é o acompanhamento das aulas, mas entre uma sessão de código e outra estudei bastante o código a fim de entender o porque de estar fazendo aquele código, e relacionando cada camada de objeto com diferentes funções.
 
 - [x] Dia 1: Criação das camadas do tabuleiro (Board) e a camada do tabuleiro de xadrez (ChessBoard), bem como as peças (Piece do Board) e as peças de xadrez (Piece do ChessPiece), e por fim, as cores das peças onde no xadrez é separado entre 2 cores distintas que separam o time, e a posição do tabuleiro, onde é uma matriz quadrada.
 - [x] Dia 2: Tratamento de excessões, excessões de segurança no Board, e verificações como se positionExists, isThereAPiece, transformando as coordenadas de matriz em coordenadas do tabuleiro, e adicionando as primeiras peças mas sem ainda suas funcionalidades.
@@ -9,4 +9,4 @@
 - [x] Dia 5: Finalizando o projeto, adicionando as demais peças no tabuleiro com suas respectivas lógicas, completando o tabuleiro como ele deve ser, movimentos especiais como castling, e alguns ajustes nas funções que já existiam.
 - [x] Dia 6: Projeto finalizado, adicionado o movimento en passant e a promoção de peça, foi também onde refleti sobre todo o projeto, se consegui entender ele bem e o quão importante ele foi pra mim.
 
-1. Por fim, pretendo adicionar uma interface gráfica mais pra frente quando eu estudar sobre, foi o meu primeiro projeto, me diverti e gostei muito do resultado!
+Por fim, pretendo adicionar uma interface gráfica mais pra frente quando eu estudar sobre, foi o meu primeiro projeto, me diverti e gostei muito do resultado!
